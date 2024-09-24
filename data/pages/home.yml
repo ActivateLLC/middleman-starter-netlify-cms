@@ -1,8 +1,15 @@
 hero:
   image: /images/uploads/homepage-hero.jpg
-  title: Great coffee with a conscience
+  title: Family Friends Escape
 story: >-
-    Our HedgeFund is dedicated to everyone who believes that financial growth
-    shouldn't just be profitable, it should be sustainable too. We leverage advanced
-    machine learning algorithms to automate future options trading, ensuring that
-    part of the profits are reinvested in promoting financial sustainability for all.
+     listing: Milwaukee Airbnb near the stadium
+    type: Duplex
+    amenities:
+      - Gym
+      - Dual washer and dryers
+      - 4 bedrooms
+      - 2 bathrooms
+      - Balcony
+      - Fire pit
+      - Lots of parking
+    price: $590/night
